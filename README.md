@@ -28,4 +28,5 @@ Lastly, the scatter plot of four groups are shown with "x="TotalCoinsMined" and 
 
 
 ## Summary
-It can be observed that most of the coins fall into categories only two categories. They have a few total number of coins mined and less coin supply
+It can be observed that most of the coins fall into categories only two categories. They have a few total number of coins mined and less coin supply. 
+To get more information about those two categories, we can use more data such as daily volume and the price for last 52 weeks. 
